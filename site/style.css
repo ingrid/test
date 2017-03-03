@@ -1,0 +1,11 @@
+/*
+canvas {
+    width: 1600px;
+    height: 1600px;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+*/
